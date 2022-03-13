@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/instinct/static/css/main.897df6e2.css",
+    "main.js": "/instinct/static/js/main.3f07367d.js",
+    "static/media/logo.svg": "/instinct/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/instinct/index.html",
+    "main.897df6e2.css.map": "/instinct/static/css/main.897df6e2.css.map",
+    "main.3f07367d.js.map": "/instinct/static/js/main.3f07367d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897df6e2.css",
+    "static/js/main.3f07367d.js"
+  ]
+}
