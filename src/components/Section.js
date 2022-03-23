@@ -4,7 +4,7 @@ import styled from 'styled-components'
 function Section() {
   return (
     <Wrap>
-        Section
+        Kong
     </Wrap>
   )
 }
